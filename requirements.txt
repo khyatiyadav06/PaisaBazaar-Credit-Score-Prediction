@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Explainability
+shap
+
+# Optional (for saving/loading models)
+joblib
+
+# Jupyter (if running notebooks)
+notebook
