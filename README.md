@@ -90,7 +90,7 @@ git clone https://github.com/your-username/credit-score-prediction.git
 cd credit-score-prediction
 
 ## 🤖 Requirements
-- pip install -r requirements.txt
+- pip install -r requirements.txt ```
 
 ### Run the notebook:
 - Open Sample_ML_Submission_Template.ipynb in Jupyter Notebook.
