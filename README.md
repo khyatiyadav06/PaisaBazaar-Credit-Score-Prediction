@@ -84,3 +84,13 @@ To develop a supervised machine learning model that predicts the **Credit Score 
 ### Final Model:
 ```python
 XGBClassifier(objective='multi:softmax', num_class=3, eval_metric='mlogloss')
+
+###  Clone the repository:
+git clone https://github.com/your-username/credit-score-prediction.git
+cd credit-score-prediction
+
+## 🤖 Requirements
+- pip install -r requirements.txt
+
+### Run the notebook:
+- Open Sample_ML_Submission_Template.ipynb in Jupyter Notebook.
